@@ -10,5 +10,9 @@ div.myDiv { border-style: dotted; border-width: 2px;
 			width:100px; height:100px;	
 	}
 	
-ol.a {list-style-type: upper-alpha;}	
-ul.b {list-style-type: square;}
+ol.a {
+	list-style-type: upper-alpha;
+	}	
+ul.b {
+	list-style-type: square;
+	}
